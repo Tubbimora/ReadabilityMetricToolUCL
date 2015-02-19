@@ -1,0 +1,11 @@
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\bin\Debug\VSPackageToolbar_IntegrationTests.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\bin\Debug\VSPackageToolbar_IntegrationTests.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\bin\Debug\VSPackageToolbar.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\bin\Debug\ReadabilityMetricTool.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\bin\Debug\VSPackageToolbar.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\bin\Debug\ReadabilityMetricTool.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\obj\Debug\VSPackageToolbar_IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\obj\Debug\VSPackageToolbar_IntegrationTests.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_IntegrationTests\obj\Debug\VSPackageToolbar_IntegrationTests.pdb

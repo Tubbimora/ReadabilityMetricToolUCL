@@ -1,0 +1,7 @@
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\ReadabilityMetricTool\bin\Debug\ReadabilityMetricTool.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\ReadabilityMetricTool\bin\Debug\ReadabilityMetricTool.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\ReadabilityMetricTool\bin\Debug\ReadabilityMetricTool.vsix
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\ReadabilityMetricTool\bin\Debug\extension.vsixmanifest
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\ReadabilityMetricTool\obj\Debug\ReadabilityMetricTool.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\ReadabilityMetricTool\obj\Debug\ReadabilityMetricTool.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\ReadabilityMetricTool\obj\Debug\extension.vsixmanifest

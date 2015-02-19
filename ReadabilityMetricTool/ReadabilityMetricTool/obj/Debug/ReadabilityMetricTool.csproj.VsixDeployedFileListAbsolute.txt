@@ -1,0 +1,3 @@
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\ReadabilityMetricTool\1.0\\ReadabilityMetricTool.dll
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\ReadabilityMetricTool\1.0\\extension.vsixmanifest
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\ReadabilityMetricTool\1.0\\ReadabilityMetricTool.pdb

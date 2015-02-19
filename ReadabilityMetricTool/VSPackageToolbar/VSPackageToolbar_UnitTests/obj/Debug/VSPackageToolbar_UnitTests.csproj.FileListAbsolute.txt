@@ -1,0 +1,12 @@
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\VSPackageToolbar_UnitTests.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\VSPackageToolbar_UnitTests.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\Microsoft.VSSDK.UnitTestLibrary.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\VSPackageToolbar.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\ReadabilityMetricTool.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\VSPackageToolbar.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\bin\Debug\ReadabilityMetricTool.pdb
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\obj\Debug\VSPackageToolbar_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\obj\Debug\VSPackageToolbar_UnitTests.dll
+C:\Users\Oliver\documents\visual studio 2013\Projects\ReadabilityMetricTool\VSPackageToolbar\VSPackageToolbar_UnitTests\obj\Debug\VSPackageToolbar_UnitTests.pdb

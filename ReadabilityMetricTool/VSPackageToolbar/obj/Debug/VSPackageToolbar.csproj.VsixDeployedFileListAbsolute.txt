@@ -1,0 +1,6 @@
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\VSPackageToolbar\1.0\\VSPackageToolbar.dll
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\VSPackageToolbar\1.0\\ReadabilityMetricTool.dll
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\VSPackageToolbar\1.0\\VSPackageToolbar.pkgdef
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\VSPackageToolbar\1.0\\extension.vsixmanifest
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\VSPackageToolbar\1.0\\VSPackageToolbar.pdb
+C:\Users\Oliver\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\UCL\VSPackageToolbar\1.0\\ReadabilityMetricTool.pdb

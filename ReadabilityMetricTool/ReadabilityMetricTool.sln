@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSPackageToolbar", "VSPackageToolbar\VSPackageToolbar.csproj", "{2CEC9FE3-2E68-42FC-B5FF-59C81E54A814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSPackageToolbar_IntegrationTests", "VSPackageToolbar\VSPackageToolbar_IntegrationTests\VSPackageToolbar_IntegrationTests.csproj", "{BEF2EEC8-6082-486F-B021-1B6465F64518}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{872A11F4-7254-43E2-9FD4-C3B67EC91A23}"
+	ProjectSection(SolutionItems) = preProject
+		IntegrationTests.testsettings = IntegrationTests.testsettings
+		UnitTests.testsettings = UnitTests.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSPackageToolbar_UnitTests", "VSPackageToolbar\VSPackageToolbar_UnitTests\VSPackageToolbar_UnitTests.csproj", "{02627821-B9C9-48EA-85D6-773A6A8A847B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadabilityMetricTool", "ReadabilityMetricTool\ReadabilityMetricTool.csproj", "{F461CBF4-5845-4CFE-85BB-B9A69713055F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEC9FE3-2E68-42FC-B5FF-59C81E54A814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEC9FE3-2E68-42FC-B5FF-59C81E54A814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEC9FE3-2E68-42FC-B5FF-59C81E54A814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEC9FE3-2E68-42FC-B5FF-59C81E54A814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF2EEC8-6082-486F-B021-1B6465F64518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF2EEC8-6082-486F-B021-1B6465F64518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF2EEC8-6082-486F-B021-1B6465F64518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF2EEC8-6082-486F-B021-1B6465F64518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02627821-B9C9-48EA-85D6-773A6A8A847B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02627821-B9C9-48EA-85D6-773A6A8A847B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02627821-B9C9-48EA-85D6-773A6A8A847B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02627821-B9C9-48EA-85D6-773A6A8A847B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F461CBF4-5845-4CFE-85BB-B9A69713055F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F461CBF4-5845-4CFE-85BB-B9A69713055F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F461CBF4-5845-4CFE-85BB-B9A69713055F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F461CBF4-5845-4CFE-85BB-B9A69713055F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
